@@ -1,5 +1,7 @@
 ﻿# 2. Komponente odločanja
 
+[Go Back](https://martinstrekelj.github.io/MTPOU/)
+
 ### 2.1 Definirajte pojme: odločanje, odločitveni problem, odločitev.
 
 Odločanje in odločitveni problem ( Glej 1.1 )
@@ -56,7 +58,7 @@ Poleg njega pa so lahko udeleženi :
 
 Odločanje vedno poteka v danih okoliščinah ali kontekstu, ki se lahko s časom ali od ene odločitve do druge spreminjajo.
 
-
+[Go Back](https://martinstrekelj.github.io/MTPOU/)
 
 
 > Written with [StackEdit](https://stackedit.io/).

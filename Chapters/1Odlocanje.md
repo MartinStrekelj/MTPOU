@@ -1,5 +1,6 @@
 ﻿# 1. Odločanje
 
+[Go Back](https://martinstrekelj.github.io/MTPOU/)
 
 ### 1.1 Opredelite pojme: odločanje, odločitveni problem, odločitveni proces, podpora odločanja
  
@@ -65,5 +66,8 @@ Operacijske raziskave se ukvarjajo z modeliranjem in iskanjem optimalnih rešite
 Odločitvena analiza ali t.i. "uporabna odločitvena teorija" je vrsta metod in tehnik za reševanje in analizo zahtevnih odločitvenih problemov. V tem procesu gradimo razne modele za vrednotenje alternativ ter jih uporabimo za analize in simulacije, kot sta analiza _kaj-če_ in _Monte Carlo_ ( wikiLink: [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)).
 
 Sistemi za podporo pri odločanju so interaktivni računalniški programi, ki pomagajo odločevalcem pri uporabi podatkov in modelov za spoznavanje in reševanje odločitvenih problemov (npr. Ekspertni sistemi, Direktorski informacijski sistemi, etc...)
+
+
+[Go Back](https://martinstrekelj.github.io/MTPOU/)
 
 > Written with [StackEdit](https://stackedit.io/).
