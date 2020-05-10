@@ -61,4 +61,3 @@ Odločanje vedno poteka v danih okoliščinah ali kontekstu, ki se lahko s časo
 [Go Back](https://martinstrekelj.github.io/MTPOU/)
 
 
-> Written with [StackEdit](https://stackedit.io/).

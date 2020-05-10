@@ -70,4 +70,3 @@ Sistemi za podporo pri odločanju so interaktivni računalniški programi, ki po
 
 [Go Back](https://martinstrekelj.github.io/MTPOU/)
 
-> Written with [StackEdit](https://stackedit.io/).
