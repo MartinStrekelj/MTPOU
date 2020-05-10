@@ -1,7 +1,8 @@
 # MTPOU Interaktivni učbenik
 
-- [Chapter 1: Odločanje](https://martinstrekelj.github.io/MTPOU/Chapters/1Odlocanje.html)
-- [Chapter 2: Komponente odločanja](https://martinstrekelj.github.io/MTPOU/Chapters/2KomponenteOdlocanja.html)
+- [Chapter 1: Odločanje](https://martinstrekelj.github.io/MTPOU/Chapters/1.html)
+- [Chapter 2: Komponente odločanja](https://martinstrekelj.github.io/MTPOU/Chapters/2.html)
+- [Chapter 3: Faze odločitvenega procesa](https://martinstrekelj.github.io/MTPOU/Chapters/3.html)
 
 Ostala poglavja bodo na voljo v kratkem času.
 
