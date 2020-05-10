@@ -4,6 +4,7 @@
 - [Chapter 2: Komponente odločanja](https://martinstrekelj.github.io/MTPOU/Chapters/2.html)
 - [Chapter 3: Faze odločitvenega procesa](https://martinstrekelj.github.io/MTPOU/Chapters/3.html)
 - [Chapter 4: Vrste odločanja](https://martinstrekelj.github.io/MTPOU/Chapters/4.html)
+- [Chapter 5: Osnovne metode odločanja](https://martinstrekelj.github.io/MTPOU/Chapters/5.html)
 
 Ostala poglavja bodo na voljo v kratkem času.
 
