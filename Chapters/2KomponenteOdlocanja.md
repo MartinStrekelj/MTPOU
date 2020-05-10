@@ -28,7 +28,7 @@ Preferenčne relacije definiramo na tri vrste(in njihove lastnosti):
  - _Indifirenčna relacija_ a=b
 	 - a je enakovreden b
 	 - **Refleksivnost**: za vsako alternativo velja **a=a**
-	 - **Simetričnost**: če za alternative a,b in c velja **a=b** in **b=c** potem velja tudi **a=c**
+	 - **Simetričnost**: če za alternative a in b  velja **a=b** potem velja tudi **b=a** 
 	 - **Tranzitivnost**: če za alternative a, b in c velja **a=b** in **b=c** potem velja tudi **a=c**
  - _Šibka preferenčna relacija_ a>=b
 	 - a imam vsaj toliko rad kot b

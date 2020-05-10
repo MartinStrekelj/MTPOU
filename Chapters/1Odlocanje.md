@@ -6,6 +6,7 @@
  
 **Odločanje** je aktivnost s katero se srečujemo vsakodnevno. Rezultat je izbira ene alternative izmed množice alternativ. Dodati je potrebno, da ko se odločimo ni več povratka, prav tako pa nikoli ne moremo pridobiti točne informacije kakšen bi bil izid oziroma posledice, če bi se odločili drugače.
 Odločanje lahko definiramo tudi kot postopek, ki rešuje nek odločitveni problem.
+
 **Odločitveni problem** je situacija v kateri se znajdemo, ko se soočimo z odločitvijo. Vhodni podatki (inputs) v odločitveni problem so množica naših ciljev (Cilji predstavljajo naše vrednote in preference do posameznih alternativ.) in množica alternativ (Skupek vseh možnih identificiranih alternativ, ki so nam na voljo. Če je možno upoštevamo tudi Status quo.). Izhod (outputs) iz odločitvenega problema sta lahko dva: 
  1. Odločevalec se odloči za eno (najboljšo) alternativo 
  2. Odločevalec rangira alternative
@@ -33,7 +34,8 @@ Značilnosti težkih odločitev so:
  -  Prisotnih je več odločevalcev
  - Omejitve časa / "Time pressure" / Deadlines etc..
 
- ### 1.3 Naštejte in opišite znanstveno-tehnična področja, ki se ukvarjajo z odločanjem. S katerimi vprašanji se ukvarjajo odločitvene znanosti? Discipline, ki se ukvarjajo s podporo odločanja?
+
+### 1.3 Naštejte in opišite znanstveno-tehnična področja, ki se ukvarjajo z odločanjem. S katerimi vprašanji se ukvarjajo odločitvene znanosti? Discipline, ki se ukvarjajo s podporo odločanja?
  
 Na prvem koraku (Odločanje) se vprašamo **"Ali se odločuje stroj ali človek?"**. 
 
